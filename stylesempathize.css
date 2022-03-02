@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {padding: 0; margin: 0;}
+img {position: absolute;}
+.title {left: 553px;
+  top: 100px;}
+.one {left: 375px;
+  top: 299px;}
+.two {left: 1050px;
+  top: 299px;}
+.three {left: 36px;
+  top: 689px;}
+.four {left: 715px;
+  top: 689px;}
+.five {left: 1394px;
+  top: 689px;}

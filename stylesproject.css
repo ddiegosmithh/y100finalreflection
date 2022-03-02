@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {padding: 0; margin: 0;}
+img {position: absolute;}
+.empathize { left: 337px;
+  top: 596px;}
+.ideate {left: 786px;
+  top: 597px;}
+.define { left: 1235px;
+  top: 597px;}
+.prototype {left: 554px;
+  top: 729px;}
+.thoughts { left: 989px;
+  top: 729px;}
